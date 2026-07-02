@@ -1,0 +1,6 @@
+framework module KKCameraKitSwift {
+  umbrella header "KKCameraKitSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

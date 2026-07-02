@@ -1,0 +1,16 @@
+PODS:
+  - KKCameraKitSwift (0.1.0)
+
+DEPENDENCIES:
+  - KKCameraKitSwift (from `../`)
+
+EXTERNAL SOURCES:
+  KKCameraKitSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KKCameraKitSwift: c148aef03b8f72e95eaa6e45d6f226645ccbc35f
+
+PODFILE CHECKSUM: 1b6f64c0ab586d4a8c84db2653ac2d0ee33bfb8c
+
+COCOAPODS: 1.16.2
